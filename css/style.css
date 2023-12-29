@@ -52,7 +52,7 @@ html{
 
 
 .heading p{
-    max-width: 60rem;
+    max-width: 50rem;
     margin: auto;
     color: var(--Grayish-Blue);
     font-size: 1.7rem;
