@@ -87,7 +87,7 @@ html{
 
 /* navbar sections starts */
 .header{
-    padding: 3rem 9%;
+    padding: 1.5rem 9%;
     display: flex;
     justify-content: space-between;
     align-items: center;
